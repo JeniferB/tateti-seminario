@@ -1,0 +1,5 @@
+C:\Users\Notebook\Documents\Instituto 2013\C#\Seminario_2013\Tateti\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Notebook\Documents\Instituto 2013\C#\Seminario_2013\Tateti\bin\Debug\Tateti.exe
+C:\Users\Notebook\Documents\Instituto 2013\C#\Seminario_2013\Tateti\bin\Debug\Tateti.pdb
+C:\Users\Notebook\Documents\Instituto 2013\C#\Seminario_2013\Tateti\obj\x86\Debug\Tateti.exe
+C:\Users\Notebook\Documents\Instituto 2013\C#\Seminario_2013\Tateti\obj\x86\Debug\Tateti.pdb
